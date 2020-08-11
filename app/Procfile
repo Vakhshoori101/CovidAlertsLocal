@@ -1,1 +1,1 @@
-web: gunicorn CovidAlertsLocal.wsgi
+web: gunicorn app.wsgi
